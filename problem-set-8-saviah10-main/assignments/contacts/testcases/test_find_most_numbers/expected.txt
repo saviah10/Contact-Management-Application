@@ -1,0 +1,91 @@
+Welcome to the contacts app!
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 123 for Joe
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 456 for Joe
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 789 for Joe
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 567 for Chris
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 567 for Chris
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 567 for Chris
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Contact "Joe":
+Phone numbers:
+123
+456
+789
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Contact "Chris":
+Phone numbers:
+567
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact with most phone numbers: Joe
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Bye!

@@ -1,0 +1,72 @@
+Welcome to the contacts app!
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 123-456-7890 for Joe
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 987-654-3210 for Joe
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Phone number?
+Added number: 123 for Chris
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Contact "Chris":
+Phone numbers:
+123
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Deleted Chris
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Name not found. Try again.
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Contact name?
+Contact "Joe":
+Phone numbers:
+123-456-7890
+987-654-3210
+1. Add a phone number
+2. Delete a contact
+3. Print a contact
+4. Print contact with most phone numbers
+5. Quit
+What would you like to do?
+Bye!
