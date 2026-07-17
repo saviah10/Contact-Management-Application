@@ -1,11 +1,10 @@
-# TODO: your code here!
-# i am so close but there is an error with the add number function!!
+
+
 def addnumber(contacts):
     name = input("Contact name?\n")
     number = input("Phone number?\n")
     if name not in contacts:
-        # use a set or list???
-        contacts [name] = set()
+        contacts[name] = set()
         contacts[name].add(number)
         print(f"Added number: {number} for {name}")
 
@@ -38,7 +37,6 @@ def printnamewithmost(contacts):
         if len(numbers) > maxnum:
             maxcon = name
             maxnum = len(numbers)
-            # create if statement?? for number to print sorted
     if maxcon:
         print(f'Contact with most phone numbers: {maxcon}')
         for number in sorted(contacts[maxcon]):
